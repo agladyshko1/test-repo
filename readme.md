@@ -1,1 +1,3 @@
-mtest repo
+test repo
+
+version 1
